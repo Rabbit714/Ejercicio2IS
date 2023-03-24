@@ -11,3 +11,8 @@ public int resta (int a , int b){
         int res=a-b;
         return res;
 }
+public int division (int a , int b){
+        int res=a/b;
+        return res;
+//division
+}
