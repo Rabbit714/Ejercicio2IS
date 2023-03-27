@@ -1,2 +1,7 @@
 # Ejercicio2IS
 un ejercicio Practico   para prueba de GitHub
+
+Cantarran Villarroel Noelia
+Espinoza Flores Noe JosueNoelia 
+Carrillo Arandia Franz Luis
+Becerra Eugenio Leidy Laura
